@@ -1,4 +1,4 @@
-# school_backend
+# School_backend
 
 ## Table of Content
 
